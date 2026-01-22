@@ -1,0 +1,8 @@
+name: meep-cad
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - cadquery
+  - numpy
+  - matplotlib

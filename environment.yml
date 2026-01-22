@@ -1,0 +1,9 @@
+name: meep-book
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pymeep
+  - numpy
+  - matplotlib
+  - h5py

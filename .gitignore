@@ -1,0 +1,31 @@
+.DS_Store
+**/.DS_Store
+
+# PDFs (outputs)
+*.pdf
+
+# Python / Meep outputs
+**/__pycache__/
+**/*.h5
+**/*.npy
+**/*.npz
+figs/
+out/
+
+# Local book projects (kept as local reference; not pushed to code repo)
+MEEP-book-en/
+MEEP-book-jp/
+docs/
+
+# LaTeX artifacts (if any)
+**/build/
+**/_minted*
+**/*.aux
+**/*.bbl
+**/*.bcf
+**/*.blg
+**/*.fdb_latexmk
+**/*.fls
+**/*.log
+**/*.run.xml
+**/*.synctex.gz
