@@ -11,6 +11,8 @@
 **/*.npz
 figs/
 out/
+cad/**/*.step
+cad/**/*.stp
 
 # Local book projects (kept as local reference; not pushed to code repo)
 MEEP-book-en/
